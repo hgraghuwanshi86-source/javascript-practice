@@ -1,3 +1,4 @@
-let string = 'mozilla'
-first= string.indexOf('l')
-console.log (string.indexOf('l',first+1))
+let name = ['mahi', 'raju','sham', 'ramu'];
+console.log(name[0])
+ 
+
