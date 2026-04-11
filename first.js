@@ -1,6 +1,9 @@
-//to change a value raju amd replacing it with seema
+//to print all the values by loop
 let name = ['raju', 'mahima','dabbu', 'ron']
-name[0]='seema'
-console.log (name)
+for (i=0;i < name.length; i++)
+{console.log(name[i]);}
+
+
+
  
 
