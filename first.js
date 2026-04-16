@@ -9,9 +9,15 @@ console.log(num);*/
 console.log (state);
 console.log (removed )*/
 
+//let state = ['bangladesh','punjab','maharashtra','goa']
+  // state.shift()
+//console.log (state);
 let state = ['bangladesh','punjab','maharashtra','goa']
-   state.shift()
+    state.unshift('gujarat')
 console.log (state);
+
+
+
 
 
    
