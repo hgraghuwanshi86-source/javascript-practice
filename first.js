@@ -4,10 +4,15 @@
 num.push (45);
 console.log(num);*/
 //to delete the value and also return it 
-let state = ['bangladesh','punjab','maharashtra','goa']
+/*let state = ['bangladesh','punjab','maharashtra','goa']
    let removed  = state.pop('goa')
 console.log (state);
-console.log (removed )
+console.log (removed )*/
+
+let state = ['bangladesh','punjab','maharashtra','goa']
+   state.shift()
+console.log (state);
+
 
    
 
